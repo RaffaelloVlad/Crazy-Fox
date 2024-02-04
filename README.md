@@ -1,4 +1,6 @@
-
+<a href='LICENSE'>
+  <img alt="GitHub License" src="https://img.shields.io/github/license/RaffaelloVlad/Crazy-Fox?labelColor=black&color=orange&cacheSeconds=50000">
+</a>
 
 <p align="center">
   <a href="https://github.com/RaffaelloVlad/Crazy-Fox/tree/main">
@@ -31,3 +33,30 @@
 # Example Cloning the repository command
 git clone https://github.com/RaffaelloVlad/Crazy-Fox.git
 ```
+
+2. Run [Mischief.uproject](Mischief.uproject)
+
+## 🌟Developers (Jammers)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RaffaelloVlad">
+        <img style="border-radius:100;" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/94010668?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="100px;" alt="Raffaello"/>
+        <p>Raffaello</p>
+      </a>
+    </td>
+     <td align="center">
+       <a href="https://github.com/Fyz-dev">
+        <img style="border-radius:100;" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63561158?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="100px;" alt="Fyz-dev"/>
+        <p>Fyz-dev</p>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/Glebunya1234">
+        <img style="border-radius:100;" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/135132499?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="100px;" alt="Raffaello"/>
+        <p>Glebuska</p>
+      </a>
+    </td>
+  </tr>
+</table>

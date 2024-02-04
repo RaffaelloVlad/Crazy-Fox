@@ -30,3 +30,4 @@
 ```bash
 # Example Cloning the repository command
 git clone https://github.com/RaffaelloVlad/Crazy-Fox.git
+```
